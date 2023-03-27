@@ -232,3 +232,6 @@ dp_classes = {"default": DataProvider,
     
 class DataProviderException(Exception):
     pass
+
+def a():
+    pass
